@@ -1,6 +1,6 @@
 
 import 'package:flame/game.dart';
-import 'package:flashgame/games/run_gameloop.dart';
+import 'package:flashgame/games/run/run_gameloop.dart';
 import 'package:flutter/material.dart';
 
 class RunGamePage extends StatefulWidget {
